@@ -1,0 +1,11 @@
+{
+  "name": "@fantastic/core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Dávid Szabó",
+  "license": "ISC"
+}
