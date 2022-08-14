@@ -1,8 +1,8 @@
 # Example TypeScript monorepo using NPM workspaces
 
-Example project that uses NPM workspaces to create a Node.js TypeScript monorepo.
+An example project that uses NPM workspaces to create a Node.js TypeScript monorepo.
 
-This project is the result of one of my [blog article](https://daveiscoding.com/nodejs-typescript-monorepo-via-npm-workspaces)s.
+This project from one of my [blog article](https://daveiscoding.com/nodejs-typescript-monorepo-via-npm-workspaces)s.
 
 ## Getting started
 
