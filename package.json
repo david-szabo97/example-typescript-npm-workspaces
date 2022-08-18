@@ -8,9 +8,9 @@
   "author": "Dávid Szabó",
   "license": "ISC",
   "workspaces": [
-    "packages\\core",
-    "packages\\web",
-    "packages\\cli"
+    "packages/core",
+    "packages/web",
+    "packages/cli"
   ],
   "devDependencies": {
     "typescript": "^4.7.4"
